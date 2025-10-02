@@ -62,12 +62,11 @@ net-salary-estimator/
 
 ---
 
-## 🔧 **Reusable & Contribution**
+## 🔒 Reuse & Contribution
 
-This program is **open-source** under the **MIT License**.
-Feel free to use, modify, or extend this code for your own learning or programs.
+This program is provided publicly **for portfolio and demonstration purposes only**. You may **not copy, modify, redistribute, or use** this code **without my explicit permission**.
 
-If you improve it or add new features, I’d love to hear about it\! 🚀
+If you’d like to request permission, please contact me at: [hafizmuhammadasimofficial@gmail.com](mailto:hafizmuhammadasimofficial@gmail.com) 
 
 ---
 
