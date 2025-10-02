@@ -56,7 +56,6 @@ You can run the program directly in your browser using **JDoodle**:
 net-salary-estimator/
 ├── Main.java - Main Program
 ├── ConsoleUtils.java - Utility Methods
-├── LICENSE - License File
 └── README.md - Documentation
 ```
 
